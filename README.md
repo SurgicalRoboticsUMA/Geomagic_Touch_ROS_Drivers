@@ -1,4 +1,4 @@
-3D Systems Geomagic Touch ROS Driver
+3D Systems Geomagic Touch ROS Driver (pRUEBA)
 ============
 
 ROS Packages for 3D Systems Geomagic Touch haptic device, **USB** version.
